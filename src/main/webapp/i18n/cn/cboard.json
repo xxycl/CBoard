@@ -44,7 +44,7 @@
     "VALUE": "值",
     "INFORMATION": "信息",
     "USER_ID": "创建人ID",
-    "LOGIN_NAME": "创建人登录名",
+    "CREATOR_NAME": "创建人登录名",
     "CREATE_TIME": "创建时间",
     "UPDATE_TIM": "最后修改时间"
   },
@@ -326,7 +326,8 @@
       "FAIL": "失败",
       "FINISH": "完成",
       "PROCESSING": "处理中",
-      "STATUS": "状态"
+      "STATUS": "状态",
+      "XLSPWD": "xls密码"
     },
     "SHARE_RES": {
       "YOUR_RES": "你的资源",
